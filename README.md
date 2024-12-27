@@ -43,7 +43,13 @@ Each animation has a corresponding `.py` file in the repository which you can re
 
 1. **Python 3.7+**  
 2. **Manim**  
-   - Follow the [official Manim installation guide](https://docs.manim.community/en/stable/installation.html) or clone the [3b1b Manim repo](https://github.com/3b1b/manim) directly.  
+   - Follow the [official Manim installation guide](https://docs.manim.community/en/stable/installation.html) or clone the [3b1b Manim repo](https://github.com/3b1b/manim) directly.
+   
+or just use:
+```bash
+pip install manim
+```
+
 3. **Dependencies**  
    - Install additional Python packages as required (e.g., `numpy`, `matplotlib`, etc.).  
 

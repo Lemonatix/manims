@@ -59,8 +59,10 @@ pip install manim
    ```bash
    git clone https://github.com/Lemonatix/manims.git
    cd manims
+   ```
 
 ## Repository structure
+
 manims/ \ 
 ├── example_scenes/ \
 │   ├── geometry_scenes.py \
@@ -68,7 +70,6 @@ manims/ \
 │   └── ... \
 ├── README.md \
 └── ...
-
 
 ## Running the animations
 1. Navigate to the folder containing the .py files if you aren't there yet:

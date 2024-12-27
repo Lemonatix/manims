@@ -86,6 +86,6 @@ manim geometry_scenes.py CircleTheorem -pqh
 
 -pqh isn't necessary but it is quite helpful:
 
--p: Preview the video (opens automatically after rendering).
--q: Quality (possible values include l, m, h, p). q stands for low, medium, high, and production.
--h: Render in high quality (if you used -q h) or you can specify -q p for production quality.
+-p: Preview the video (opens automatically after rendering). \
+-q: Quality (possible values include l, m, h, p). q stands for low, medium, high, and production. \
+-h: Render in high quality (if you used -q h) or you can specify -q p for production quality. 

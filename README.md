@@ -63,10 +63,15 @@ pip install manim
 ## Repository structure
 manims/
 ├── example_scenes/
+
 │   ├── geometry_scenes.py
+
 │   ├── algebra_scenes.py
+
 │   └── ...
+
 ├── README.md
+
 └── ...
 
 ## Running the animations

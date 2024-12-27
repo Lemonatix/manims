@@ -61,13 +61,12 @@ pip install manim
    cd manims
 
 ## Repository structure
-3b1b-math-animations/
-├── example_scenes/
-│   ├── geometry_scenes.py
-│   ├── algebra_scenes.py
-│   └── ...
-├── requirements.txt
-├── README.md
+manims/ \ 
+├── example_scenes/ \
+│   ├── geometry_scenes.py \
+│   ├── algebra_scenes.py \
+│   └── ... \
+├── README.md \
 └── ...
 
 

@@ -62,14 +62,15 @@ pip install manim
    ```
 
 ## Repository structure
-
-manims/ \ 
-├── example_scenes/ \
-│   ├── geometry_scenes.py \
-│   ├── algebra_scenes.py \
-│   └── ... \
-├── README.md \
+```lua
+manims/
+├── example_scenes/
+│   ├── geometry_scenes.py
+│   ├── algebra_scenes.py
+│   └── ...
+├── README.md
 └── ...
+```
 
 ## Running the animations
 1. Navigate to the folder containing the .py files if you aren't there yet:
